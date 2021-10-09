@@ -1,0 +1,165 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.box
+{
+    
+    height: 900px;
+    width: 1000px;
+    background-color: rgb(46,54,64);
+    border-radius: 5%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size:larger;
+    margin-left:25%;
+}
+
+.title
+{
+    width: 1000px;
+    height: 150px;
+    float:top;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.menu1
+{
+	width: 245px;
+    height: 100px;
+    float: left;
+    background-color:#2e626f;
+    margin-right:5px;
+    color:white;
+    border-radius: 0 50px 50px 0;
+    padding-top: 15px;
+    font-size:x-large;
+    text-align: center;
+}
+
+.menu2
+{
+    width: 500px;
+    height: 100px;
+    float: left;
+    color:white;
+    text-align: center;
+    
+}
+    
+    .menu2box1
+    {
+        width: 500px;
+        height: 50px;
+        float: left;
+        background-color:#2e626f;
+        border-radius: 50px 50px 0 0;
+    }
+    
+    .menu2box2
+    {
+        float:left;
+        width:250px;
+        height: 50px;
+        
+    }
+        .menu21
+        {
+            width: 125px;
+            float: left;
+            background-color: #3198d6;
+            border-radius: 0 0 0 50px;
+        }
+
+        .menu22
+        {
+            width: 125px;
+            float: left;
+            background-color: #6eb863;
+            
+        }
+
+    .menu2box3
+    {
+        float:left;
+        width:250px;
+        height: 50px;
+    }
+        .menu23
+        {
+            width: 125px;
+            float: left;
+            background-color: #671014;
+            
+        }
+
+        .menu24
+        {
+            width: 125px;
+            float: left;
+            background-color: #faa40f;
+            border-radius: 0 0 50px 0;
+        }
+
+.menu3
+{
+    width: 245px;
+    height: 100px;
+    float: left;
+    background-color:#2e626f;
+    color:white;
+    margin-left:5px;
+    border-radius: 50px 0 0 50px;
+    padding-top: 15px;
+    font-size:x-large;
+    text-align: center;
+}
+
+.content
+{
+	width: 1000px;
+    height: 550px;
+    float:left;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-image:url("boxbg.png");
+    color:white;
+    padding-top: 20px;
+}
+
+.c1
+{
+    width:500px;
+    height:auto;
+    float: left;
+    font-size:larger;
+    padding-left: 10px;
+    
+}
+.c2
+{
+    width:490px;
+    height:auto;
+    float: left;
+    font-size:larger;
+}
+.footer
+{
+	width: 1000px;
+    float: left;
+    color:white;
+    text-align: center;
+    
+}
+
+a
+{
+    color:white;
+}
+
+h1
+{
+    text-align: center;
+}
